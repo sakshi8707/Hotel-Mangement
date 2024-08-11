@@ -65,7 +65,7 @@ Hotel Management
 │   └── hostel_staff.sql
 └── README.md
 
+```
 
-
-## Contribution
-Feel free to contribute to this project by forking the repository and submitting pull requests.
+ ## Contribution
+  Feel free to contribute to this project by forking the repository and submitting pull requests.
