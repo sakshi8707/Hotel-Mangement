@@ -28,9 +28,14 @@
 
 ## WorkFlow
 
-![Workflow Diagram](https://your-workflow-diagram-url.com)
 
 
+## Installation Steps
+
+1. Clone the repo:
+    ```sh
+     git clone https://github.com/sakshi8707/Hotel-Management.git
+    
 ## Directory Structure
 
 ```plaintext
@@ -60,11 +65,7 @@ Hotel Management
 │   └── hostel_staff.sql
 └── README.md
 
-## Installation Steps
 
-1. Clone the repo:
-    ```sh
-     git clone https://github.com/sakshi8707/Hotel-Management.git
 
 ## Contribution
 Feel free to contribute to this project by forking the repository and submitting pull requests.
