@@ -30,8 +30,41 @@
 
 ![Workflow Diagram](https://your-workflow-diagram-url.com)
 
+
+## Directory Structure
+
+```plaintext
+Hotel Management
+├── hotel management/Hostel management
+├── nbproject
+│   ├── ant-deploy.xml
+│   ├── build-impl.xml
+│   ├── genfiles.properties
+│   ├── project.properties
+│   └── project.xml
+├── src
+│   ├── conf
+│   ├── java
+│   └── web
+│       ├── about.html
+│       ├── admin.jsp
+│       ├── admininvoice.jsp
+│       ├── allot.jsp
+│       └── build.xml
+├── database
+│   ├── hostel_admin.sql
+│   ├── hostel_allot.sql
+│   ├── hostel_invoice.sql
+│   ├── hostel_rooms.sql
+│   ├── hostel_sregister.sql
+│   └── hostel_staff.sql
+└── README.md
+
 ## Installation Steps
 
 1. Clone the repo:
-   ```sh
-   git clone https://github.com/sakshi8707/Hotel-Management.git
+    ```sh
+     git clone https://github.com/sakshi8707/Hotel-Management.git
+
+## Contribution
+Feel free to contribute to this project by forking the repository and submitting pull requests.
